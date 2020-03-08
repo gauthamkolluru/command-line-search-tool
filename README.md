@@ -1,10 +1,11 @@
 # command-line-search-tool
 
-A platform independent __Command Line Search Tool__ for searching files across the system that:
+A platform independent __Command Line Search Tool__ for searching files across the system that has the _input string_ in it's:
 
-* have the input string in it's name
-* have the input string in it's content
+* Name
+* Content
 
 Planned implementation paradigm : _Functional_
 
 Planned inclusions : _Multi-threaded/processed_
+
